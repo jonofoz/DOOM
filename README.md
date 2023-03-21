@@ -46,6 +46,10 @@ into smaller chunks.
 Nothing of course is siloed perfectly here: various areas will inevitably overlap. But I feel I can approach my studies and roughly categorize everything into these areas.
 
 
-**So here  we go!**
+**So here we go!**
 
 JonOfOz
+
+## Journals:
+
+- [Journal 1](./journals/03-20-2023.md)
