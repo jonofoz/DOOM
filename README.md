@@ -52,4 +52,5 @@ JonOfOz
 
 ## Journals:
 
-- [Journal 1](./journals/03-20-2023.md)
+- [Journal 1](./journals/001.md)
+- [Journal 2](./journals/002.md)
