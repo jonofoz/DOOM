@@ -20,8 +20,7 @@ But I feel like I've reached a point in my life as a developer that, if I go
 about this task intelligently, I absolutely can figure this out, little by little.
 
 ## "And what's your plan, Dan?"
-Obviously, there's no way I can take in everything all at once... but I can totally break it down
-into smaller chunks.
+Obviously, there's no way I can take in everything all at once... but I can totally break it down into smaller chunks.
 
 ### Here's my (somewhat naive) plan to chunk this app into smaller sections, without diving too much into the details:
 1. Game logic
